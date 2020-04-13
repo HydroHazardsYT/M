@@ -1,2 +1,2 @@
-# Micro
+# M
 An fps game made by HydroHazards
